@@ -7,6 +7,10 @@
 ![Layer](https://img.shields.io/badge/LOCATION-LAYER_7:_VIOLENCE-ffcc00?style=for-the-badge&logoColor=black)
 ![Fuel](https://img.shields.io/badge/FUEL_LEVEL-OPTIMAL-ff1e1e?style=for-the-badge)
 
+<br/>
+
+<img src="https://media.tenor.com/eZHAeJvePwAAAAAM/ultrakill-v1-ultrakill.gif" width="320" alt="V1 ULTRAKILL" />
+
 </div>
 
 ---
