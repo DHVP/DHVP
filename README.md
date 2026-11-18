@@ -1,6 +1,15 @@
 <div align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=V1%20//%20SYSTEM%20ONLINE&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MANKIND%20IS%20DEAD.%20BLOOD%20IS%20FUEL.%20HELL%20IS%20FULL.&descAlignY=58&descSize=16](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=V1%20//%20SYSTEM%20ONLINE&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MANKIND%20IS%20DEAD.%20BLOOD%20IS%20FUEL.%20HELL%20IS%20FULL.&descAlignY=58&descSize=16)" width="100%" />
+
+# `/// V1 — SYSTEM ONLINE ///`
+### **MANKIND IS DEAD. BLOOD IS FUEL. HELL IS FULL.**
+
+![Status](https://img.shields.io/badge/STATUS-ACTIVE-ff1e1e?style=for-the-badge&logo=probot&logoColor=white)
+![Layer](https://img.shields.io/badge/LOCATION-LAYER_7:_VIOLENCE-ffcc00?style=for-the-badge&logoColor=black)
+![Fuel](https://img.shields.io/badge/FUEL_LEVEL-OPTIMAL-ff1e1e?style=for-the-badge)
+
 </div>
+
+---
 
 ```text
 > BOOTING TERMINAL-01... [OK]
@@ -9,15 +18,12 @@
 > CURRENT OBJECTIVE: CLEANSE THE REPOSITORIES
 ```
 
-### 🩸 COMBAT TELEMETRY (STATS)
+### 🩸 WEAPON LOADOUT (TECH STACK)
 
-<div align="center">
-  <img height="175em" src="[https://github-readme-stats.vercel.app/api?username=DHVP&show_icons=true&title_color=ff1e1e&icon_color=ffcc00&text_color=e0e0e0&bg_color=0a0a0a&border_color=ff1e1e&hide_border=false&custom_title=MACHINE%20PERFORMANCE](https://github-readme-stats.vercel.app/api?username=DHVP&show_icons=true&title_color=ff1e1e&icon_color=ffcc00&text_color=e0e0e0&bg_color=0a0a0a&border_color=ff1e1e&hide_border=false&custom_title=MACHINE%20PERFORMANCE)" />
-  <img height="175em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=DHVP&layout=compact&title_color=ff1e1e&text_color=e0e0e0&bg_color=0a0a0a&border_color=ff1e1e&hide_border=false&custom_title=WEAPON%20LOADOUT](https://github-readme-stats.vercel.app/api/top-langs/?username=DHVP&layout=compact&title_color=ff1e1e&text_color=e0e0e0&bg_color=0a0a0a&border_color=ff1e1e&hide_border=false&custom_title=WEAPON%20LOADOUT)" />
-</div>
+| Arma / Módulo | Estado | Tecnología |
+| :--- | :---: | :--- |
+| **Primary Railcannon** | `EQUIPPED` | ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) |
+| **Feedbacker Arm** | `READY` | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| **Core Eject** | `ONLINE` | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
-<br/>
-
-<div align="center">
-  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=DHVP&bg_color=0a0a0a&color=ff1e1e&line=ffcc00&point=ff1e1e&area=true&hide_border=false&border_color=ff1e1e&custom_title=BLOOD%20COLLECTION%20LOG](https://github-readme-activity-graph.vercel.app/graph?username=DHVP&bg_color=0a0a0a&color=ff1e1e&line=ffcc00&point=ff1e1e&area=true&hide_border=false&border_color=ff1e1e&custom_title=BLOOD%20COLLECTION%20LOG)" width="100%" />
-</div>
+> *"NOTHING BUT SCRAP."* — V1
