@@ -26,4 +26,21 @@
 | **Feedbacker Arm** | `READY` | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
 | **Core Eject** | `ONLINE` | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
+### ⚡ STYLE METER: `ULTRAKILL`
+
+```diff
++ [P-RANK] +FISTFUL OF DOLLAR  (Clean Architecture & Optimization)
++ [S-RANK] +PARRY              (Bug Fixing & Exception Handling)
++ [A-RANK] +RICOSHOT           (API Integration & RAG Pipelines)
+! [ALERT]  +ENRAGED            (Debugging at 3:00 AM)
+```
+
+### 🎯 PRIME SANCTUMS (FEATURED MISSIONS)
+
+| Nivel | Misión / Repositorio | Rango |
+| :--- | :--- | :---: |
+| `0-1` | **[SystemRAG_ABET](https://github.com/DHVP/SystemRAG_ABET)** — Retrieval-Augmented Generation | `P` |
+| `0-2` | **[Llamator](https://github.com/DHVP/Llamator)** — LLM Tooling & Automation | `P` |
+| `7-1` | **[redes-capa7-grupo2](https://github.com/DHVP/redes-capa7-grupo2)** — OSI Layer 7 & Docker | `S` |
+
 > *"NOTHING BUT SCRAP."* — V1
